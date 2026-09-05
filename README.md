@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="./1000190809.png" 
+    alt="Hello World - Developer Banner" 
+    width="100%"
+  />
+</p>
 # Hey👀, I'm Apurbo Roy
 **A passionate Software Engineer || Web Developer || From Bangladesh 🇧🇩**
 
