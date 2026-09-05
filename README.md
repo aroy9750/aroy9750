@@ -1,10 +1,5 @@
-<p align="center">
-  <img 
-    src="./1000190809.png" 
-    alt="Hello World - Developer Banner" 
-    width="100%"
-  />
-</p>
+![Image Alt](https://github.com/aroy9750/aroy9750/blob/b19842937357ac7dbb0bf92f9d9bd95cdcfb6f64/ebdff3ff-b683-4213-9b56-2beab4cd312c.png)
+
 # Hey👀, I'm Apurbo Roy
 **A passionate Software Engineer || Web Developer || From Bangladesh 🇧🇩**
 
